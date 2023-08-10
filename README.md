@@ -25,7 +25,7 @@
 ## GitHub Stats 🎯
 
 <center>
-  <img src="https://github-readme-stats.vercel.app/api?username=velta360&show_icons=true&locale=en&theme=monokai" alt="velta360" />
+  <img src="https://github-readme-stats.vercel.app/api?username=velta360&show_icons=true&locale=en&theme=dark" alt="velta360" />
 </center>
 
 ## GitHub Streak Stats 🔥
