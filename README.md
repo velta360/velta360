@@ -34,7 +34,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=velta360&theme=synthwave" alt="velta360" />
 </center>
 
-![](https://readme-now-playing.vercel.app/now-playing/q?uid=YOUR_USER_ID)
 
 <!--
 **velta360/velta360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
