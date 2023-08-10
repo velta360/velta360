@@ -7,8 +7,9 @@
 - 📚 I’m currently learning Business App development, Databases, Information Security and Business Process Management!
   
 - 📨 You can reach me through: email | eltagonde.vonn@gmail.com or linkedin | www.linkedin.com/in/vonn-eltagonde
+  
 
-<h1 align="center">More about myself 🐼</h1>
+## More about myself 🐼
 
 - I am learning Python, Linux and SQL currently.
 
@@ -21,13 +22,13 @@
 
 
 
-<h1 align="center">GitHub Stats 🎯 </h1>
+## GitHub Stats 🎯
 
 <center>
   <img src="https://github-readme-stats.vercel.app/api?username=velta360&show_icons=true&locale=en&theme=synthwave" alt="velta360" />
 </center>
 
-<h1 align="center">GitHub Streak Stats 🔥 </h1>
+## GitHub Streak Stats 🔥
 
 <center>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=velta360&theme=synthwave" alt="velta360" />
