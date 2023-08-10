@@ -36,7 +36,7 @@
 
 ## Listening activity 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=heerabzg04istnbgoheuk4i6x&cover_image=true&theme=Novatorem&show_offline=false&background_color=346289&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=heerabzg04istnbgoheuk4i6x&cover_image=true&theme=natemoo-re&show_offline=false&background_color=346289&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **velta360/velta360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
