@@ -23,11 +23,15 @@
 
 <h1 align="center">GitHub Stats 🎯 </h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=velta360&show_icons=true&locale=en&theme=synthwave" alt="velta360" /></p>
+<center>
+  <img src="https://github-readme-stats.vercel.app/api?username=velta360&show_icons=true&locale=en&theme=synthwave" alt="velta360" />
+</center>
 
 <h1 align="center">GitHub Streak Stats 🔥 </h1>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=velta360&theme=synthwave" alt="velta360" /></p> 
+<center>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=velta360&theme=synthwave" alt="velta360" />
+</center>
 
 <!--
 **velta360/velta360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
