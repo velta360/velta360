@@ -18,24 +18,17 @@
 
 - My goal is to work in the Information Technology industry 🤳!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=velta360&show_icons=true&locale=en&theme=dark" alt="velta360" /></p>
+
+
+
+<h1 align="center">GitHub Stats 🎯 </h1>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=velta360&show_icons=true&locale=en&theme=tokyonight" alt="velta360" /></p>
+
+<h1 align="center">GitHub Streak Stats 🔥 </h1>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=velta360&theme=dark" alt="velta360" /></p> 
 
-## GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=velta360&theme=dark&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&width=100&height=100)](https://github.com/velta360)
-
-## Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=velta360&show_icons=true&locale=en&layout=compact&theme=dracula&width=100&height=100)](https://github.com/velta360)
-
-## Repositories
-
-[![Repositories](https://github-readme-stats.vercel.app/api/repositories?username=velta360&show_icons=true&locale=en&layout=compact&theme=dracula&width=100&height=100)](https://github.com/velta360)
-
-## Recent Activity
-
-[![Recent Activity](https://github-readme-stats.vercel.app/api/commits?username=velta360&show_icons=true&locale=en&layout=compact&theme=dracula&width=100&height=100)](https://github.com/velta360)
 <!--
 **velta360/velta360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
