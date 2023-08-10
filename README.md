@@ -1,6 +1,6 @@
-<h1 align="left">Hi 👋, I am Vonn Eltagonde</h1>
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=heerabzg04istnbgoheuk4i6x&cover_image=true&theme=natemoo-re&show_offline=false&background_color=346289&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) 
+
+<h1 align="left"> Welcome to my profile: I am Vonn Eltagonde</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=velta360&label=Profile%20views&color=0e75b6&style=flat" alt="velta360" /> </p>
 
@@ -37,6 +37,7 @@
 </center>
 
 ## Listening activity 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=heerabzg04istnbgoheuk4i6x&cover_image=true&theme=natemoo-re&show_offline=false&background_color=346289&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) 
 
 
 
