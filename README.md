@@ -31,11 +31,11 @@
 ## GitHub Streak Stats 🔥
 
 <center>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=velta360&theme=synthwave" alt="velta360" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=velta360&theme=gruvbox" alt="velta360" />
 </center>
 
 ## My Spotify Listening Activity 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=heerabzg04istnbgoheuk4i6x&cover_image=true&theme=novatorem&show_offline=true&background_color=2b213a&interchange=true&bar_color=ef8539&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=heerabzg04istnbgoheuk4i6x&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=heerabzg04istnbgoheuk4i6x&cover_image=true&theme=novatorem&show_offline=false&background_color=2b213a&interchange=true&bar_color=ef8539&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=heerabzg04istnbgoheuk4i6x&redirect=true)
 
 <!--
 **velta360/velta360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
