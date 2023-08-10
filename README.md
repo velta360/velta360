@@ -34,6 +34,30 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=velta360&theme=synthwave" alt="velta360" />
 </center>
 
+<!-- Show Spotify listening activity -->
+<script src="https://unpkg.com/spotify-now-playing@4.0.0/dist/spotify-now-playing.min.js"></script>
+<script>
+  const spotifyNowPlaying = new SpotifyNowPlaying({
+    clientId: '044f9dd0173a4df4a3616da0a56baa86',
+    clientSecret: 'bd2f743f202248c698d6f3c682226274',
+    accessToken: 'YOUR_SPOTIFY_ACCESS_TOKEN',
+  });
+
+  spotifyNowPlaying.on('playing', (data) => {
+    const { track, artist } = data;
+    const html = `
+      <div>
+        <img src="${track.image[0].url}" alt="${track.name} by ${artist.name}">
+        <h3>${track.name}</h3>
+        <p>by ${artist.name}</p>
+      </div>
+    `;
+    document.getElementById('spotify-now-playing').innerHTML = html;
+  });
+</script>
+
+<div id="spotify-now-playing"></div>
+
 <!--
 **velta360/velta360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
