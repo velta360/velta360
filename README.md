@@ -31,7 +31,7 @@
 ## GitHub Streak Stats 🔥
 
 <center>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=velta360&theme=gruvbox" alt="velta360" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=velta360&theme=cobalt" alt="velta360" />
 </center>
 
 ## My Spotify Listening Activity 🎧
