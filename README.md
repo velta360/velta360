@@ -34,6 +34,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=velta360&theme=synthwave" alt="velta360" />
 </center>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=heerabzg04istnbgoheuk4i6x&cover_image=true&theme=default&show_offline=false&background_color=2b213a&interchange=false&bar_color=ef8539&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=heerabzg04istnbgoheuk4i6x&redirect=true)
 
 <!--
 **velta360/velta360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
