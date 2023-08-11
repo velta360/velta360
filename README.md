@@ -11,7 +11,7 @@
 
 ## More about myself 🐼
 
-- I am learning 🐍 Python, Linux and SQL currently.
+- I am learning 🐍 Python, Linux and Oracle APEX (SQL) currently.
 
 - My hobbies include ⌨️ computer building, 🎾 tennis and 📱 mobile phone tech!
   
