@@ -1,4 +1,4 @@
-<h1 align="left"> 🧑‍💻 Welcome to my profile: Vonn Eltagonde 🧑‍💻</h1>
+<h1 align="left"> Vonn Eltagonde </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=velta360&label=Profile%20views&color=0e75b6&style=flat" alt="velta360" /> </p>
 
